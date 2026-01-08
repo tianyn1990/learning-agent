@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: travel-assistant
+Version: 0.1.0
+Summary: A multi-step task travel assistant (learning project).
+Requires-Python: >=3.9
+Requires-Dist: requests
+Requires-Dist: tavily-python
+Requires-Dist: openai
+Requires-Dist: urllib3<2

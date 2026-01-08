@@ -1,0 +1,4 @@
+requests
+tavily-python
+openai
+urllib3<2
